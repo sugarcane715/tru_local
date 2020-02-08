@@ -1,0 +1,4 @@
+2020-01-25T03:17:58+00:00 CRITICAL syntax error, unexpected end of file: /var/www/html/wp-admin/includes/file.php の行2237
+
+2020-01-25T03:19:13+00:00 CRITICAL syntax error, unexpected '}', expecting end of file: /var/www/html/wp-admin/includes/file.php の行615
+
